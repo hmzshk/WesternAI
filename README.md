@@ -1,0 +1,2 @@
+# WesternAI
+Sign language translator
